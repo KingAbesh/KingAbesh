@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on awesome stuff @Flutterwave.
+- 🔭 I’m currently working on awesome stuff @flutterwave.
 
 - 🌱 I have a knack for languages/runtimes that prioritize concurrency.
 
