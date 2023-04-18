@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on awesome stuff @zazuuHQ.
+- 🔭 I’m currently working on awesome stuff.
 
 - 🌱 I have a knack for languages/runtimes that prioritize concurrency.
 
